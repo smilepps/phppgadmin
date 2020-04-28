@@ -1,4 +1,4 @@
-FROM trafex/alpine-nginx-php7
+FROM smileps/alpine-nginx-php-fpm:latest
 
 LABEL maintainer="Mohammad Abdolirad <m.abdolirad@gmail.com>" \
     org.label-schema.name="phppgadmin" \
