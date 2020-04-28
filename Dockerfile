@@ -1,4 +1,4 @@
-FROM dockage/alpine-nginx-php-fpm:latest
+FROM trafex/alpine-nginx-php7
 
 LABEL maintainer="Mohammad Abdolirad <m.abdolirad@gmail.com>" \
     org.label-schema.name="phppgadmin" \
